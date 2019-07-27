@@ -3,12 +3,9 @@
     <p>📮WebHook 기반 Slack 알리미</p>
 </div>
 
-## 코드 한 줄로 당신의 업무의 생산성을 높이세요 🙌🏼🙌🏼
 <div align="CENTER">
     <img src="assets/demo.gif" alt="demo" />    
 </div>
-
-<hr>
 
 ```python
 from SlackNotifier.notifier import SlackNotifier
@@ -49,3 +46,7 @@ or
 ```bash
 $ pip3 install requests
 ```
+
+<div align="CENTER">
+    <h3> 코드 한 줄로 당신의 업무의 생산성을 높이세요 🙌🏼🙌🏼</h3>
+</div>
